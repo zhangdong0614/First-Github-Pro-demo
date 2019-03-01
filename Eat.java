@@ -1,9 +1,10 @@
-package cn.kgc.eat;
+﻿package cn.kgc.eat;
 
 import java.util.Scanner;
 
 public class Eat {
 	public static void main(String[] args) {
+		System.out.println("\t github练习”");
 		Scanner input=new Scanner(System.in);		
 		System.out.println("\t欢迎使用“吃货联盟订餐系统”");
 		String []cp={"红烧带鱼","鱼香肉丝","时令鲜蔬"};//菜品信息
